@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Online_Phone_Market_Bot-master.iml" filepath="$PROJECT_DIR$/.idea/Online_Phone_Market_Bot-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Online_Phone_Market_Bot-master/app_Phone_Market_bot.iml" filepath="$PROJECT_DIR$/Online_Phone_Market_Bot-master/app_Phone_Market_bot.iml" />
+    </modules>
+  </component>
+</project>

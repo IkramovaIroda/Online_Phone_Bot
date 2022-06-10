@@ -1,6 +1,6 @@
 package uz.pdp.bot.util;
 
 public interface BotSettings {
-    String BOT_USERNAME = "Online_Phone_Market_bot";
-    String BOT_TOKEN = "5041669275:AAFrPbi-02W7jVll7jcHHbNLu9BoboabkDQ";
+    String BOT_USERNAME = "Ikramova_Uz_bot";
+    String BOT_TOKEN = "5539140806:AAHLkHWKtKsRgKkLElpl5AF0Zzfr0r5cs9o";
 }
