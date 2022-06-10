@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "prefix": "\uD83D\uDCF2 ",
+    "name": "Samsung"
+  },
+  {
+    "id": 2,
+    "prefix": "\uD83D\uDCF1 ",
+    "name": "iPhone"
+  },
+  {
+    "id": 3,
+    "prefix": "⌚ ",
+    "name": "Watches"
+  },
+  {
+    "id": 4,
+    "prefix": "\uD83D\uDCFA ",
+    "name": "TV"
+  },
+  {
+    "id": 5,
+    "prefix": "\uD83D\uDCBB ",
+    "name": "Notebook"
+  }
+]

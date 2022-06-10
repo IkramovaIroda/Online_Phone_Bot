@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "categoryId": 1,
+    "name": "Samsung Galaxy S10",
+    "price": 2750000.0,
+    "imageUrl": "https://drive.google.com/file/d/1a-QIVHtHPwQo9MKWCJjIIp8kvmeLN4vC/view?usp=sharing"
+  },
+  {
+    "id": 2,
+    "categoryId": 1,
+    "name": "Samsung Galaxy S21",
+    "price": 9700000.0,
+    "imageUrl": "https://drive.google.com/file/d/1--4LpEIMtyiD-x4NCP13HujcoD7DC74c/view?usp=sharing"
+  },
+  {
+    "id": 3,
+    "categoryId": 1,
+    "name": "Samsung Galaxy A51",
+    "price": 2200000.0,
+    "imageUrl": "https://drive.google.com/file/d/1zYwrk5oDg6LtAQIhYrk2xdUPOmBRXH6O/view?usp=sharing"
+  },
+  {
+    "id": 4,
+    "categoryId": 1,
+    "name": "Samsung Galaxy Note 9",
+    "price": 3200000.0,
+    "imageUrl": "https://drive.google.com/file/d/1iRSYcAyx2CbP7Jb3nrZtMsQh3IvKyxK3/view?usp=sharing"
+  },
+  {
+    "id": 8,
+    "categoryId": 2,
+    "name": "iPhone 11 Pro Max",
+    "price": 11300000.0,
+    "imageUrl": "https://drive.google.com/file/d/1-U5srEJzWdLSwdy_8Y2eL1E5Y_qf8VBf/view?usp=sharing"
+  },
+  {
+    "id": 9,
+    "categoryId": 2,
+    "name": "iPhone 12 Pro Max",
+    "price": 12400000.0,
+    "imageUrl": "https://drive.google.com/file/d/13c5DRz6QaKhJ5viBtb5geiXbCWcoWHD2/view?usp=sharing"
+  },
+  {
+    "id": 10,
+    "categoryId": 2,
+    "name": "iPhone 13 Pro Max",
+    "price": 15800000.0,
+    "imageUrl": "https://drive.google.com/file/d/1_4bf7X0L3lScwMwGIwoqUxwdIF5ZyMvH/view?usp=sharing"
+  },
+  {
+    "id": 11,
+    "categoryId": 2,
+    "name": "iPhone XS Max",
+    "price": 8700000.0,
+    "imageUrl": "https://drive.google.com/file/d/1CHq7kZk1EsaLNoVcruSNwXjSXR6TGKzt/view?usp=sharing"
+  },
+  {
+    "id": 19,
+    "categoryId": 3,
+    "name": "Apple Watch Series 3",
+    "price": 2790000.0,
+    "imageUrl": "https://drive.google.com/file/d/1__MBCRF4HJLlRFA17eIy4ZXrCfgR8bhr/view?usp=sharing"
+  },
+  {
+    "id": 20,
+    "categoryId": 3,
+    "name": "Apple Watch Series 7",
+    "price": 3840000.0,
+    "imageUrl": "https://drive.google.com/file/d/1C3Zf87TZ-GJzZaTVTqamAG2LCN9Hm4qa/view?usp=sharing"
+  },
+  {
+    "id": 21,
+    "categoryId": 3,
+    "name": "Apple Watch SE",
+    "price": 2510000.0,
+    "imageUrl": "https://drive.google.com/file/d/15-rE25KL1Jypa7ogSwvFhs_xLDaF8DaQ/view?usp=sharing"
+  },
+  {
+    "id": 22,
+    "categoryId": 3,
+    "name": "Apple Watch Series 1",
+    "price": 2100000.0,
+    "imageUrl": "https://drive.google.com/file/d/1UD1SPliJ5Zub4N1H56t3NNASlR6fqcLx/view?usp=sharing"
+  },
+  {
+    "id": 23,
+    "categoryId": 4,
+    "name": "Samsung Smart TV",
+    "price": 3850000.0,
+    "imageUrl": "https://drive.google.com/file/d/1g_VNMlr4VcgcAuEvHzizHW9656Ut2bKf/view?usp=sharing"
+  },
+  {
+    "id": 24,
+    "categoryId": 4,
+    "name": "Philips Smart TV",
+    "price": 2890000.0,
+    "imageUrl": "https://drive.google.com/file/d/1fHMSSDZT8rzf_n90Rw2j8h2ZQsplJVBW/view?usp=sharing"
+  },
+  {
+    "id": 25,
+    "categoryId": 4,
+    "name": "Clipart Smart TV",
+    "price": 1870000.0,
+    "imageUrl": "https://drive.google.com/file/d/1xxGvTQnNMVChcLtHsGM34ABdRCrn-6UY/view?usp=sharing"
+  },
+  {
+    "id": 26,
+    "categoryId": 4,
+    "name": "Nokia Smart TV",
+    "price": 2450000.0,
+    "imageUrl": "https://drive.google.com/file/d/1U7RvK4iv7CCfLEzxbaVQJbioelgri_Jw/view?usp=sharing"
+  },
+  {
+    "id": 27,
+    "categoryId": 5,
+    "name": "Acer Nitro 5 Core-i5 10th GEN",
+    "price": 9270000.0,
+    "imageUrl": "https://drive.google.com/file/d/1MCf5WMuVQSGuUQffPTQ9x5ecLwHuhJ--/view?usp=sharing"
+  },
+  {
+    "id": 28,
+    "categoryId": 5,
+    "name": "Lenovo Legion Y530 Core-i7",
+    "price": 11300000.0,
+    "imageUrl": "https://drive.google.com/file/d/16UjAY4KGJsdl-fhzGXRLkCH9jUhl-Pzg/view?usp=sharing"
+  },
+  {
+    "id": 29,
+    "categoryId": 5,
+    "name": "Dell G5 5500 i7 10th GEN",
+    "price": 10700000.0,
+    "imageUrl": "https://drive.google.com/file/d/1W20oa0W3Uyvxio4nei2zRwTlYjLyhIZ6/view?usp=sharing"
+  },
+  {
+    "id": 30,
+    "categoryId": 5,
+    "name": "Asus TUF GAMING Fx505",
+    "price": 11600000.0,
+    "imageUrl": "https://drive.google.com/file/d/1DXbtmK9cityR85_FVfPFpshox0yKE-nD/view?usp=sharing"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1158125023,
+    "chatId": 1158125023,
+    "firstName": "Sirojiddin ibn Rasuljon ibn Ismoil",
+    "lastName": "",
+    "username": "ibn_Rasuljon",
+    "phoneNumber": "",
+    "botState": "CHANGE_SETTINGS"
+  },
+  {
+    "id": 941729759,
+    "chatId": 941729759,
+    "firstName": "༆ Sirojiddin Ismoiliy 🍃",
+    "lastName": "",
+    "username": "tuituz_SI",
+    "phoneNumber": "",
+    "botState": "SELECT_COUNT_PRODUCT"
+  },
+  {
+    "id": 1256524322,
+    "chatId": 1256524322,
+    "firstName": "Javokhirbek",
+    "lastName": "Rakhimov",
+    "username": "Mr_Jokha",
+    "phoneNumber": "",
+    "botState": "START"
+  },
+  {
+    "id": 831487945,
+    "chatId": 831487945,
+    "firstName": "ᏗᏦᎧᏰᎥᏒ︻┳ั芫ี┳═─┵ • • •",
+    "username": "AaKkOoBbIiRr",
+    "phoneNumber": "+998932371017",
+    "botState": "SHOW_CART"
+  },
+  {
+    "id": 773099413,
+    "chatId": 773099413,
+    "firstName": "Мамасаидов",
+    "lastName": "",
+    "username": "mirzabek_mamasaidov",
+    "phoneNumber": "",
+    "botState": "CHANGE_SETTINGS"
+  },
+  {
+    "id": 1118602444,
+    "chatId": 1118602444,
+    "firstName": "Sarvar",
+    "lastName": "Sultonov",
+    "username": "Sv_4888_19",
+    "phoneNumber": "",
+    "botState": "START"
+  }
+]
